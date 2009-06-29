@@ -1,4 +1,4 @@
 category: Libs
-requires: cygwin glib2 libopensync0 libxml2 libcurl4 openssl
+requires: glib2 libopensync0 libxml2 libcurl4 openssl
 sdesc: "OpenSync Opie plugin"
 ldesc: "Opie plugin for the OpenSync synchronization framework"
